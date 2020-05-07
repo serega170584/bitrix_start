@@ -33,7 +33,5 @@ $APPLICATION->SetTitle("Startup - Простой и динамичный шаб�
 #FEEDBACK_FORM#
 
 #CONTACTS_CODE#
-<?php
-$APPLICATION->SetTitle('«Издательские планы»');
-?>
+
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
