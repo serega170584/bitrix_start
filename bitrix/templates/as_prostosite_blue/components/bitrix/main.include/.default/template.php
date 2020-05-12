@@ -1,1 +1,2 @@
-adasdasda asdasdas asdasd asdass asdassss asdas asdas asdasd asd as
+<?php
+var_dump($arResult["FILE"]);
