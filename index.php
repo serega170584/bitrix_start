@@ -9,7 +9,7 @@ $APPLICATION->SetTitle("Startup - Простой и динамичный шаб�
     "",
     Array(
         "AREA_FILE_SHOW" => "file",
-        "PATH" => "inc/main.php",
+        "PATH" => "/inc/main.php",
         "EDIT_TEMPLATE" => "",
         "AREA_FILE_SUFFIX" => "",
         "AREA_FILE_RECURSIVE" => "Y"
