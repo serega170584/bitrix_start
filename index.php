@@ -8,7 +8,7 @@ $APPLICATION->SetTitle("Startup - Простой и динамичный шаб�
     "bitrix:main.include",
     "",
     Array(
-        "AREA_FILE_SHOW" => "page",
+        "AREA_FILE_SHOW" => "sect",
         "EDIT_TEMPLATE" => "",
         "AREA_FILE_SUFFIX" => "main",
         "AREA_FILE_RECURSIVE" => "Y"

@@ -1,2 +1,1 @@
-<?php
 asdasdas asdasd asd
