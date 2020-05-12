@@ -6,7 +6,7 @@ $APPLICATION->SetTitle("Startup - Простой и динамичный шаб�
 
 <?$APPLICATION->IncludeComponent(
     "bitrix:main.include",
-    "",
+    ".default",
     Array(
         "AREA_FILE_SHOW" => "sect",
         "EDIT_TEMPLATE" => "",
