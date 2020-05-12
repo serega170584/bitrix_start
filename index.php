@@ -1,7 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 global $APPLICATION;
-die('asd');
 $APPLICATION->SetTitle("Startup - Простой и динамичный шаблон для 1С-Битрикс Стартапа или Сервиса");
 ?>
 
