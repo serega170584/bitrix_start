@@ -4,17 +4,16 @@ global $APPLICATION;
 $APPLICATION->SetTitle("Startup - Простой и динамичный шаблон для 1С-Битрикс Стартапа или Сервиса");
 ?>
 
-<? $APPLICATION->IncludeComponent(
+<?$APPLICATION->IncludeComponent(
     "bitrix:main.include",
     "",
     Array(
-        "AREA_FILE_SHOW" => "file",
-        "PATH" => "/inc/main.php",
+        "AREA_FILE_SHOW" => "page",
         "EDIT_TEMPLATE" => "",
-        "AREA_FILE_SUFFIX" => "",
+        "AREA_FILE_SUFFIX" => "main",
         "AREA_FILE_RECURSIVE" => "Y"
     )
-); ?>
+);?>
 
     <!--#SERVICES_CODE#-->
     <!---->
