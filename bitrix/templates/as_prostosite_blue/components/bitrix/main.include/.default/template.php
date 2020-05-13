@@ -1,2 +1,2 @@
 <?php
-die('asd');
+include $arResult['FILE'];
