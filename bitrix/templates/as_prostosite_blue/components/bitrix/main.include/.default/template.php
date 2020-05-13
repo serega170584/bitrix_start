@@ -1,2 +1,2 @@
 <?php
-var_dump($arResult);
+die('asd');
