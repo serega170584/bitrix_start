@@ -19,11 +19,7 @@ $APPLICATION->SetTitle("О компании");
     </ul>
     </p>
     <h2>Примеры работ</h2>
-<?php $APPLICATION->IncludeComponent("ambersite:gallery", "", array(
-        "CACHE_TYPE" => "A",
-        "CACHE_TIME" => "360000",
-        "IBLOCK_CODE" => "as_gallery_s1",
-        "PROP" => "AS_GAL_PICT"
-    )
-); ?>
-<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
+    <div>
+        <a href="/upload/iblock/875/8750617e92b82302457608cef5650c81.png"><img
+                    src="/upload/iblock/875/8750617e92b82302457608cef5650c81.png"></a>
+    </div><? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
