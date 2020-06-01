@@ -21,5 +21,5 @@ $APPLICATION->SetTitle("О компании");
     <h2>Примеры работ</h2>
     <div>
         <a href="/bootstrap/template.html" target="_blank"><img
-                    src="/upload/iblock/875/8750617e92b82302457608cef5650c81.png"></a>
+                    src="/upload/iblock/bab/bab5b37225a47bbcf7e2ddcbc6613a6c.png"></a>
     </div><? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
